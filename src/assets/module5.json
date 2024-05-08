@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is an example of a pharmaceutical dosage form?",
+      "choices": ["Antibody", "Tablet", "Enzyme", "Hormone"],
+      "type": "MCQs",
+      "correctAnswer": "Tablet",
+      "rationale": "A tablet is an example of a pharmaceutical dosage form. Dosage forms are the final pharmaceutical products that contain the active pharmaceutical ingredient (API) along with various excipients. Tablets are solid dosage forms that are convenient for oral administration."
+    },
+    {
+      "question": "What is the primary function of pharmaceutical excipients in drug formulations?",
+      "choices": [
+        "Enhancing drug taste",
+        "Increasing drug potency",
+        "Facilitating drug absorption",
+        "Aiding in drug formulation and stability"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Aiding in drug formulation and stability",
+      "rationale": "The primary function of pharmaceutical excipients in drug formulations is to aid in drug formulation and stability. Excipients are inactive ingredients added to pharmaceutical formulations to provide bulk, enhance stability, facilitate drug release, and improve patient acceptability."
+    },
+    {
+      "question": "Which of the following is an example of a pharmaceutical process used for solid dosage form manufacturing?",
+      "choices": [
+        "Emulsification",
+        "Filtration",
+        "Granulation",
+        "Distillation"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Granulation",
+      "rationale": "Granulation is a pharmaceutical process used for solid dosage form manufacturing. It involves the formation of granules by agglomerating fine powder particles with the help of binders and granulating agents. Granulation improves the flow properties, compressibility, and uniformity of the powder blend."
+    },
+    {
+      "question": "What is the purpose of film coating in tablet formulation?",
+      "choices": [
+        "Enhancing drug dissolution",
+        "Improving drug stability",
+        "Facilitating drug absorption",
+        "Masking unpleasant taste"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Improving drug stability",
+      "rationale": "The purpose of film coating in tablet formulation is to improve drug stability. Film coatings protect the tablet core from environmental factors such as moisture, light, and oxygen, thereby enhancing drug stability and extending shelf life."
+    },
+    {
+      "question": "Which of the following is a technique used for sterilizing pharmaceutical products?",
+      "choices": [
+        "Lyophilization",
+        "Pasteurization",
+        "Autoclaving",
+        "Crystallization"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Autoclaving",
+      "rationale": "Autoclaving is a technique used for sterilizing pharmaceutical products. It involves subjecting the products to high-pressure saturated steam at elevated temperatures, typically around 121°C, to achieve sterilization by killing microorganisms and their spores."
+    }
+  ]
+}

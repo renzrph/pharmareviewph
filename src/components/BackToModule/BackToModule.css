@@ -1,0 +1,22 @@
+.back-to-module-btn {
+  background-color: var(--back-to-module-btn);
+  color: var(--text-white);
+  border: none;
+  width: 300px;
+  padding: 0.5rem 1rem;
+  border-radius: 8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  font-size: 1.2rem;
+  position: absolute;
+  top: 1.5rem;
+  left: 1.5rem;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.back-to-module-btn:hover {
+  background-color: var(--back-to-module-btn-hover);
+  cursor: pointer;
+}

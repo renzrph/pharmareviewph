@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following functional groups is commonly found in penicillin antibiotics?",
+      "choices": ["Beta-lactam ring", "Carboxylic acid", "Amine", "Ester"],
+      "type": "MCQs",
+      "correctAnswer": "Beta-lactam ring",
+      "rationale": "Penicillin antibiotics contain a beta-lactam ring as a key structural component. This ring is essential for their antibacterial activity, as it inhibits the formation of bacterial cell walls by binding to penicillin-binding proteins."
+    },
+    {
+      "question": "What is the primary mechanism of action of statins in lowering cholesterol levels?",
+      "choices": [
+        "Inhibition of acetylcholinesterase",
+        "Activation of peroxisome proliferator-activated receptors",
+        "Inhibition of HMG-CoA reductase",
+        "Blockade of angiotensin-converting enzyme (ACE)"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Inhibition of HMG-CoA reductase",
+      "rationale": "Statins primarily lower cholesterol levels by inhibiting the enzyme HMG-CoA reductase, which plays a key role in the biosynthesis of cholesterol. By inhibiting this enzyme, statins reduce the production of cholesterol in the liver, leading to decreased blood cholesterol levels."
+    },
+    {
+      "question": "Which term refers to the study of drug-receptor interactions and their biochemical and physiological effects?",
+      "choices": [
+        "Pharmacokinetics",
+        "Pharmacodynamics",
+        "Pharmacognosy",
+        "Toxicology"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Pharmacodynamics",
+      "rationale": "Pharmacodynamics is the branch of pharmacology that deals with the study of drug-receptor interactions and their biochemical and physiological effects on the body. It focuses on understanding how drugs exert their therapeutic and toxic effects through interactions with specific molecular targets."
+    },
+    {
+      "question": "Which of the following is a common solvent used in pharmaceutical formulations for parenteral administration?",
+      "choices": ["Ethanol", "Propylene glycol", "Mineral oil", "Glycerin"],
+      "type": "MCQs",
+      "correctAnswer": "Propylene glycol",
+      "rationale": "Propylene glycol is a commonly used solvent in pharmaceutical formulations for parenteral administration. It is preferred due to its low toxicity, solubilizing properties, and ability to mix with water and other solvents. Additionally, it has a relatively low melting point, which makes it suitable for various routes of administration."
+    },
+    {
+      "question": "Which of the following is a method used to characterize the purity of pharmaceutical substances?",
+      "choices": [
+        "X-ray crystallography",
+        "Nuclear magnetic resonance (NMR) spectroscopy",
+        "High-performance liquid chromatography (HPLC)",
+        "Mass spectrometry"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "High-performance liquid chromatography (HPLC)",
+      "rationale": "High-performance liquid chromatography (HPLC) is a widely used analytical technique in pharmaceutical chemistry for characterizing the purity of pharmaceutical substances. It allows for the separation, identification, and quantification of individual components in a mixture, making it an essential tool for quality control in the pharmaceutical industry."
+    }
+  ]
+}

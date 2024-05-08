@@ -1,0 +1,19 @@
+.error-message {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.error-message > .frown-icon {
+  font-size: 15rem;
+}
+
+.error-message > h1 {
+  font-size: 6.5rem;
+}
+
+.error-message > strong {
+  font-size: 1.25rem;
+}

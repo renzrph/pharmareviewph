@@ -1,0 +1,21 @@
+.result {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  width: 100%;
+}
+
+.result > h3 {
+  font-size: 1.5rem;
+}
+
+.result > p {
+  font-size: 1.3rem;
+}
+
+.correct-answers-count {
+  font-size: 1.9rem;
+  font-weight: 800;
+}

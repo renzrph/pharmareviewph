@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary objective of Quality Assurance (QA) in pharmaceutical manufacturing in the Philippines?",
+      "choices": [
+        "Ensuring product safety and efficacy",
+        "Increasing production speed",
+        "Maximizing profit margins",
+        "Expanding market reach"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Ensuring product safety and efficacy",
+      "rationale": "The primary objective of Quality Assurance (QA) in pharmaceutical manufacturing in the Philippines is to ensure product safety and efficacy. QA systems are implemented to establish and maintain processes that consistently produce pharmaceutical products meeting quality standards and regulatory requirements."
+    },
+    {
+      "question": "Which of the following is a key component of Good Manufacturing Practice (GMP) guidelines enforced in the Philippines?",
+      "choices": [
+        "Product Marketing",
+        "Quality Risk Management",
+        "Facility Maintenance",
+        "Sales Promotion"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Quality Risk Management",
+      "rationale": "Quality Risk Management is a key component of Good Manufacturing Practice (GMP) guidelines enforced in the Philippines. GMP guidelines focus on ensuring that pharmaceutical products are consistently produced and controlled according to quality standards, covering areas such as quality risk management, personnel training, facility maintenance, and documentation."
+    },
+    {
+      "question": "Which of the following is an example of an in-process quality control test during pharmaceutical manufacturing in the Philippines?",
+      "choices": [
+        "Stability testing",
+        "Microbiological analysis",
+        "Finished product inspection",
+        "Tablet hardness testing"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Tablet hardness testing",
+      "rationale": "Tablet hardness testing is an example of an in-process quality control test during pharmaceutical manufacturing in the Philippines. It ensures uniformity in tablet hardness, which is important for dosage accuracy and patient safety. In-process tests are conducted throughout the manufacturing process to monitor and control the quality of pharmaceutical products."
+    },
+    {
+      "question": "What is the purpose of a Certificate of Analysis (CoA) for pharmaceutical products in the Philippines?",
+      "choices": [
+        "To certify the manufacturing facility",
+        "To provide instructions for product use",
+        "To verify product compliance with specifications",
+        "To promote product marketing"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "To verify product compliance with specifications",
+      "rationale": "The purpose of a Certificate of Analysis (CoA) for pharmaceutical products in the Philippines is to verify product compliance with specifications. CoAs provide detailed information about the quality and purity of a batch of pharmaceutical product, including test results and acceptance criteria."
+    },
+    {
+      "question": "Which regulatory agency is responsible for enforcing compliance with pharmaceutical quality standards in the Philippines?",
+      "choices": ["FDA", "DOH", "CHED", "BPS"],
+      "type": "MCQs",
+      "correctAnswer": "FDA",
+      "rationale": "The Food and Drug Administration (FDA) in the Philippines is responsible for enforcing compliance with pharmaceutical quality standards. FDA regulates the manufacturing, labeling, and distribution of pharmaceutical products and ensures that they meet quality, safety, and efficacy requirements."
+    }
+  ]
+}

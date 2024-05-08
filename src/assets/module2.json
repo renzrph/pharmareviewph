@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is a plant-derived compound commonly used in traditional Chinese medicine for its anti-inflammatory properties?",
+      "choices": ["Curcumin", "Ginsenoside", "Artemisinin", "Quercetin"],
+      "type": "MCQs",
+      "correctAnswer": "Ginsenoside",
+      "rationale": "Ginsenosides are a class of plant-derived compounds found in Panax ginseng, commonly used in traditional Chinese medicine for their anti-inflammatory properties. They have been studied for their potential therapeutic effects in various inflammatory conditions."
+    },
+    {
+      "question": "What is the primary pharmacological action of alkaloids derived from opium poppy (Papaver somniferum)?",
+      "choices": [
+        "Antioxidant",
+        "Antibacterial",
+        "Analgesic",
+        "Antihistaminic"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Analgesic",
+      "rationale": "Alkaloids derived from opium poppy, such as morphine and codeine, exert their primary pharmacological action as analgesics. They are widely used for pain relief due to their ability to bind to opioid receptors in the central nervous system, resulting in pain modulation."
+    },
+    {
+      "question": "Which of the following is a class of natural products known for their antimalarial properties?",
+      "choices": ["Flavonoids", "Terpenoids", "Alkaloids", "Lignans"],
+      "type": "MCQs",
+      "correctAnswer": "Terpenoids",
+      "rationale": "Terpenoids, such as artemisinin derived from Artemisia annua, are known for their antimalarial properties. Artemisinin and its derivatives have been used as key components in the treatment of malaria, exhibiting potent antiparasitic activity against Plasmodium species."
+    },
+    {
+      "question": "Which of the following is a traditional herbal remedy used for its cognitive-enhancing effects?",
+      "choices": [
+        "Ginkgo biloba",
+        "Echinacea purpurea",
+        "St. John's wort",
+        "Valerian root"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Ginkgo biloba",
+      "rationale": "Ginkgo biloba is a traditional herbal remedy known for its cognitive-enhancing effects. Extracts from Ginkgo biloba leaves have been studied for their potential benefits in improving memory, concentration, and overall cognitive function, particularly in the elderly."
+    },
+    {
+      "question": "Which term refers to the study of the chemical composition and therapeutic properties of natural products derived from plants and other natural sources?",
+      "choices": [
+        "Pharmacokinetics",
+        "Pharmacodynamics",
+        "Pharmacognosy",
+        "Toxicology"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Pharmacognosy",
+      "rationale": "Pharmacognosy is the branch of pharmacology that deals with the study of the chemical composition, therapeutic properties, and applications of natural products derived from plants, animals, and other natural sources. It encompasses the identification, isolation, and characterization of bioactive compounds for medicinal purposes."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Which organization in the Philippines is responsible for regulating and accrediting pharmacy education programs?",
+      "choices": ["PRC", "CHED", "FDA", "DOH"],
+      "type": "MCQs",
+      "correctAnswer": "CHED",
+      "rationale": "The Commission on Higher Education (CHED) in the Philippines is responsible for regulating and accrediting pharmacy education programs. CHED ensures that pharmacy schools meet the required standards and produce competent graduates."
+    },
+    {
+      "question": "What is the primary role of a community pharmacist in the Philippines?",
+      "choices": [
+        "Conducting clinical research",
+        "Compounding medications",
+        "Providing patient counseling",
+        "Performing laboratory tests"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Providing patient counseling",
+      "rationale": "The primary role of a community pharmacist in the Philippines is to provide patient counseling. Community pharmacists play a crucial role in ensuring safe and effective medication use by counseling patients on proper drug administration, potential side effects, and adherence to treatment regimens."
+    },
+    {
+      "question": "Which government agency in the Philippines is responsible for regulating the manufacturing, distribution, and sale of pharmaceutical products?",
+      "choices": ["FDA", "DOH", "BPS", "PRC"],
+      "type": "MCQs",
+      "correctAnswer": "FDA",
+      "rationale": "The Food and Drug Administration (FDA) in the Philippines is responsible for regulating the manufacturing, distribution, and sale of pharmaceutical products. FDA ensures that medications meet quality standards and are safe and effective for public use."
+    },
+    {
+      "question": "What is the purpose of the Philippine Pharmacists Association (PPhA)?",
+      "choices": [
+        "Accrediting pharmacy schools",
+        "Conducting continuing education programs",
+        "Issuing pharmacist licenses",
+        "Regulating pharmaceutical manufacturing"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Conducting continuing education programs",
+      "rationale": "The Philippine Pharmacists Association (PPhA) is an organization that aims to advance the pharmacy profession in the country. One of its purposes is to conduct continuing education programs for pharmacists to enhance their knowledge and skills and keep them updated with the latest developments in the field."
+    },
+    {
+      "question": "Which of the following is an example of a pharmacy practice in the Philippines aimed at promoting rational drug use?",
+      "choices": [
+        "Compounding specialty medications",
+        "Conducting drug recalls",
+        "Implementing medication therapy management services",
+        "Dispensing generic medications"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Dispensing generic medications",
+      "rationale": "Dispensing generic medications is an example of a pharmacy practice in the Philippines aimed at promoting rational drug use. Generic medications are more affordable alternatives to brand-name drugs and help improve access to essential medications for patients."
+    }
+  ]
+}

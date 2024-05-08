@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is an example of a drug acting as an agonist?",
+      "choices": ["Aspirin", "Atropine", "Propranolol", "Morphine"],
+      "type": "MCQs",
+      "correctAnswer": "Morphine",
+      "rationale": "Morphine is an example of a drug acting as an agonist. It binds to opioid receptors and activates them, resulting in analgesic effects. Agonists mimic the action of endogenous ligands and produce a biological response."
+    },
+    {
+      "question": "What is the primary mechanism of action of beta-blockers like propranolol?",
+      "choices": [
+        "Blockade of sodium channels",
+        "Inhibition of histamine H2 receptors",
+        "Activation of GABA receptors",
+        "Blockade of beta-adrenergic receptors"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Blockade of beta-adrenergic receptors",
+      "rationale": "The primary mechanism of action of beta-blockers like propranolol is the blockade of beta-adrenergic receptors. By blocking these receptors, beta-blockers reduce the effects of sympathetic stimulation, resulting in decreased heart rate and blood pressure."
+    },
+    {
+      "question": "Which of the following factors can affect drug absorption?",
+      "choices": [
+        "Age",
+        "Metabolism",
+        "Volume of distribution",
+        "Plasma protein binding"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Age",
+      "rationale": "Age can affect drug absorption. Factors such as gastrointestinal pH, gastric emptying time, and intestinal transit time may vary with age, influencing the rate and extent of drug absorption in different age groups."
+    },
+    {
+      "question": "What does the term 'half-life' of a drug refer to?",
+      "choices": [
+        "Time taken for the drug to reach its maximum concentration in the plasma",
+        "Time taken for the drug to be metabolized and excreted by half",
+        "Time taken for the drug to exert its therapeutic effect",
+        "Time taken for the drug to be absorbed from the site of administration"
+      ],
+      "type": "MCQs",
+      "correctAnswer": "Time taken for the drug to be metabolized and excreted by half",
+      "rationale": "The 'half-life' of a drug refers to the time taken for the drug concentration in the body to be reduced by half through metabolism and elimination. It provides an indication of the duration of drug action and the dosing interval required to maintain therapeutic levels."
+    },
+    {
+      "question": "Which of the following routes of administration bypasses the first-pass metabolism?",
+      "choices": ["Oral", "Intravenous", "Sublingual", "Intramuscular"],
+      "type": "MCQs",
+      "correctAnswer": "Intravenous",
+      "rationale": "The intravenous route of administration bypasses the first-pass metabolism. Drugs administered intravenously are directly delivered into the bloodstream, avoiding metabolism by the liver before reaching systemic circulation. This results in rapid onset of action and higher bioavailability."
+    }
+  ]
+}

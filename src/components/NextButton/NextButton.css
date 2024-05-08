@@ -1,0 +1,18 @@
+.next-button {
+  background-color: var(--next-btn);
+  color: var(--text-white);
+  padding: 0.5rem 2rem;
+  border-radius: 2rem;
+  border: none;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.next-button:hover {
+  cursor: pointer;
+  background-color: var(--next-btn-hover);
+}
+
+.next-button:disabled:hover {
+  opacity: 0.7;
+  cursor: not-allowed;
+}

@@ -1,0 +1,88 @@
+.app-title {
+  text-align: center;
+  margin: 0 auto;
+  padding: 1.25rem 0;
+  font-size: 3.5rem;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+}
+
+.tablets-icon {
+  font-size: 1.9rem;
+}
+
+.welcome-message {
+  font-size: 1.4rem;
+  text-align: center;
+  padding: 0 0 1.2rem 0;
+}
+
+.select-module > ul {
+  background-color: #4a4fad;
+  list-style: none;
+  padding: none;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  padding: 2.25rem;
+  gap: 1.5rem;
+  border-radius: 0.8rem;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.select-module li {
+  transition: color 0.3s;
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+
+.select-module li:hover {
+  cursor: pointer;
+  color: var(--select-module-hover);
+}
+
+/* Tablet */
+@media only screen and (max-width: 768px) {
+  .app-title {
+    font-size: 1.8rem;
+  }
+
+  .tablets-icon {
+    font-size: 1.6rem;
+  }
+
+  .welcome-message {
+    font-size: 1.2rem;
+  }
+
+  .select-module > ul {
+    padding: 1.5rem;
+  }
+
+  .select-module li {
+    font-size: 1.2rem;
+  }
+}
+
+/* Mobile */
+@media only screen and (max-width: 480px) {
+  .app-title {
+    font-size: 1.5rem;
+  }
+
+  .tablets-icon {
+    font-size: 1.4rem;
+  }
+
+  .welcome-message {
+    font-size: 1rem;
+  }
+
+  .select-module > ul {
+    padding: 1rem;
+  }
+
+  .select-module li {
+    font-size: 1rem;
+  }
+}
