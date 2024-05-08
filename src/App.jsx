@@ -7,10 +7,11 @@ import ModuleThree from "./pages/ModuleThree/ModuleThree";
 import ModuleFour from "./pages/ModuleFour/ModuleFour";
 import ModuleFive from "./pages/ModuleFive/ModuleFive";
 import ModuleSix from "./pages/ModuleSix/ModuleSix";
+import { HashRouter } from "react-router-dom";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/pharmareviewph/" element={<SelectModule />} />
         <Route path="/pharmareviewph/module-1" element={<ModuleOne />} />
@@ -21,7 +22,7 @@ function App() {
         <Route path="/pharmareviewph/module-6" element={<ModuleSix />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
