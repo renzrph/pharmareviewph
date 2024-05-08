@@ -12,13 +12,13 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<SelectModule />} />
-        <Route path="/module-1" element={<ModuleOne />} />
-        <Route path="/module-2" element={<ModuleTwo />} />
-        <Route path="/module-3" element={<ModuleThree />} />
-        <Route path="/module-4" element={<ModuleFour />} />
-        <Route path="/module-5" element={<ModuleFive />} />
-        <Route path="/module-6" element={<ModuleSix />} />
+        <Route path="/pharmareviewph/" element={<SelectModule />} />
+        <Route path="/pharmareviewph/module-1" element={<ModuleOne />} />
+        <Route path="/pharmareviewph/module-2" element={<ModuleTwo />} />
+        <Route path="/pharmareviewph/module-3" element={<ModuleThree />} />
+        <Route path="/pharmareviewph/module-4" element={<ModuleFour />} />
+        <Route path="/pharmareviewph/module-5" element={<ModuleFive />} />
+        <Route path="/pharmareviewph/module-6" element={<ModuleSix />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
     </BrowserRouter>
